@@ -10,7 +10,7 @@ int main()
     cout << "You have received Super Ultra Rare Unit!!!\n";
   }if( rank == 'S' || rank == 'A' ){
     cout << "You have received 5 gems.\n";
-  }if( rank == 'B' || rank == 'A' or rank == 'S' ){
+  }if( rank == 'B' || rank == 'A' || rank == 'S' ){
     cout << "You have received 1 gems.\n";
   }if( rank == 'C' || rank == 'B' || rank == 'A' || rank == 'S' ){
     cout << "You have received 2000 coins.\n";
